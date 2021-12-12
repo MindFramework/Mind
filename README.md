@@ -103,17 +103,18 @@ It is important to create information such as the purpose of the package, depend
         'username'=>'aliyilmaz',
         'password'=>md5(123456)
     );
-    
+
     // or json
     // $data = json_encode($data);
     ```
 
     code:
     ```php
+    require_once('Mind.php');
     $m = new Mind();
     $m::aliyilmaz('php/print_pre/1.0.0')->print_pre($data);
     ```
-    
+
     **When using it in the class:**
 
     code:
@@ -134,9 +135,9 @@ It is important to create information such as the purpose of the package, depend
 
     ### Dependencies
 
-    1. [is_json - 1.0.0](https://github.com/aliyilmaz/php/is_json)
+    1. [is_json - 1.0.0](https://github.com/aliyilmaz/is_json)
 
     ---
-    
+
     ### License
-    Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/php/print_pre/1.0.0/license.md) license.
+    Instructions and files in this directory are shared under the [GPL3](https://github.com/aliyilmaz/print_pre/tree/main/1.0.0/LICENSE.md) license.
