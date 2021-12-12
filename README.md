@@ -1,6 +1,6 @@
 ## Mind
 
-It is a safe, fast and easy project development tool. Mind is the PHP code framework designed for developers. It offers a variety of solutions for creating design patterns, applications and code frameworks.
+It is a safe, fast and easy project development tool. 
 
 ## How is the package made?
 
