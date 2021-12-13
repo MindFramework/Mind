@@ -58,7 +58,7 @@ Translations or detailed documents of the package in different languages can be 
 
 The packages we will use may sometimes need other packages. For this, we define the package's ability to access other packages using the **extends Mind** suffix.
 
-*developer/aliyilmaz/php/1.0.0/src/print_pre.php*
+*developer/aliyilmaz/print_pre/src/print_pre.php*
 
 ```php
 class print_pre extends Mind
