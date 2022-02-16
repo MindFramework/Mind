@@ -45,14 +45,13 @@ Translations or detailed documents of the package in different languages can be 
 * developer 
     * devepoler_name
         * package_name
-            * package_version
-                * license.md
-                * readme.md
-                * src
-                    * package_name.php
-                * tests (optional)
-                    * package_name.php (optional)
-                * docs (optional)
+            * license.md
+            * readme.md
+            * src
+              * package_name.php
+            * tests (optional)
+               * package_name.php (optional)
+            * docs (optional)
 
 ### 2) Leveraging other dependencies
 
